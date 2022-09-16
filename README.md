@@ -1,0 +1,1 @@
+- Hi this is the playground for some bot-releated mainly c# and nodejs projects.
